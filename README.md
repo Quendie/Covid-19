@@ -10,20 +10,35 @@ According to different country names in the two datasets, names were changed tow
 
 
 Congo, Dem. Rep.          -> Congo (Kinshasa)
+
 Congo, Rep.               -> Congo (Brazzaville)
+
 Côte d'Ivoire             -> Cote d'Ivoire
+
 Egypt, Arab Rep.          -> Egypt
+
 Gambia, The               -> Gambia
+
 Iran, Islamic Rep.        -> Iran
+
 Kyrgyz Republic           -> Kyrgyzstan
+
 Lao PDR                   -> Laos
+
 Myanmar                   -> Burma
+
 Russian Federation        -> Russia
+
 São Tomé and Principe     -> Sao Tome and Principe
+
 St. Lucia                  -> Saint Lucia
+
 St. Vincent and the Grenadines -> Saint Vincent and the Grenadines
+
 Syrian Arab Republic      -> Syria
+
 Venezuela, RB             -> Venezuela
+
 Yemen, Rep.               -> Yemen
 
 
