@@ -51,6 +51,8 @@ print(filtered_countries2)
 dates=unique(countries_aggregated$Date)
 dates=vapply(dates, paste, collapse = ", ", character(1L))
 
+
+## Diagram for Confirmed cases
 for(i in dates){
   cases_1=0
   cases_2=0
@@ -87,8 +89,7 @@ for(i in dates){
 }
 
 
-
-
+## Diagram for Deaths
 for(i in dates){
   cases_1=0
   cases_2=0
@@ -127,7 +128,7 @@ for(i in dates){
 
 
 
-
+## Diagram for Recovered cases
 for(i in dates){
   cases_1=0
   cases_2=0
