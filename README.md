@@ -42,7 +42,11 @@ Venezuela, RB             -> Venezuela
 Yemen, Rep.               -> Yemen
 
 
-A new file was created with the corrected country names (https://github.com/Quendie/Covid-19/blob/master/developing_countries.csv).
+A new file was created with the corrected country names (https://github.com/Quendie/Covid-19/blob/master/developing_countries.csv). According to the World Bank original dataset, the country classifications remain in effect until 1st July 2021.
+
+
+
+The final R Skript is found under https://github.com/Quendie/Covid-19/blob/master/covid-19_data.R. It provides three diagrams of confirmed, death and recovered cases comparing developed and developing countries. 
 
 
 
